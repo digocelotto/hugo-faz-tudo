@@ -1,0 +1,24 @@
+# Saída local
+/dist/
+/reports/
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Configurações pessoais
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+*.zip
+*backup*/
+*ftp*.json
+*ftp*.xml
+*.pem
+*.key
+Thumbs.db
+desktop.ini
+.DS_Store
